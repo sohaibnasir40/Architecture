@@ -1,1 +1,1 @@
-# Architecture
+https://coderjony.com/blogs/adding-swagger-to-aspnet-core-31-web-api/
